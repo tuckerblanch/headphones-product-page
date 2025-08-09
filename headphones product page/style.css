@@ -10,6 +10,15 @@
   --overlay-color: rgba(0, 0, 0, 0.7);
 }
 
+:root {
+  --primary-color: #333;
+  --secondary-color: #444;
+  --ternary-color: #555;
+  --light-color: #ccc;
+  --light-secondary-color: #ddd;
+  --light-ternary-color: #eee;
+  --overlay-color: rgba(0, 0, 0, 0.7);
+}
 * {
   box-sizing: border-box;
   margin: 0;
